@@ -1,12 +1,22 @@
-- 👋 Hi, I’m Rodrigo Santana
-- 👀 I’m interested in HTML CSS3 BOOTSTRAP JAVASCRIPT, I'm aspiring full-stack developer in react/react native
-- 🌱 I’m currently learning Bootstrap, javascript, git, cmd commands, json and protocols...
-- 💞️ I’m looking to collaborate on my projects and initially on the front-and...
-- Learning technologies: styledComponents, TailWindCss, chakra ui, react icons, Redux, localStorage, contextApi, Node, express, react hooks, javascrit ES6...
-- 📫 How to reach me mikasaaika@gmail.com / @roguigo777 / 11 9 58087567...
+# Rodrigo Santana da Silva
 
-My personal project - https://github.com/GuigoSantana/sistema-de-OS
-<!---
-LilDrikks/LilDrikks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Rodrigo, I'm a junior software developer passionate about building fullstack applications with JavaScript and its ecosystem.
+
+## About me
+- 🎯 focus: Frontend (with React and tailwind) and Backend (Node.js, Express mongoDB/SQLite, Prisma).
+- 📖 currently studying: Software engineering and improving my English (B1).
+- 💻 interested in: Fullstack development, cloud computing, and DevOps.
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind.
+- **backend:** Node.js, Express, Fastify, Prisma.
+- **Databases:** MongoDB, SQLite, Firebase.
+- **Others:** Git/GitHub, REST APIs, Zustand, Redux.
+
+## Featured Projects
+- [🔧 Service Order System](https://github.com/GuigoSantana/sistema-de-OS) - (Work In Progress) Fullstack system for managing clients, services, products and service's orders.
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-santana-38555b314).
+- [GitHub](https://github.com/GuigoSantana)
+- [Email](mikasaaika@gmail.com)
