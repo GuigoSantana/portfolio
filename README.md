@@ -5,6 +5,7 @@
 - Learning technologies: styledComponents, TailWindCss, chakra ui, react icons, Redux, localStorage, contextApi, Node, express, react hooks, javascrit ES6...
 - 📫 How to reach me mikasaaika@gmail.com / @roguigo777 / 11 9 58087567...
 
+My personal project - https://github.com/GuigoSantana/sistema-de-OS
 <!---
 LilDrikks/LilDrikks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
