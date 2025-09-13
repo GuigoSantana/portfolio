@@ -18,5 +18,5 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-santana-38555b314).
-- [GitHub](https://github.com/GuigoSantana)
-- [Email](mikasaaika@gmail.com)
+- [GitHub](https://github.com/GuigoSantana).
+- Email: mikasaaika@gmail.com.
