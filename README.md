@@ -14,7 +14,7 @@
 - **Others:** Git/GitHub, REST APIs, Zustand, Redux.
 
 ## Featured Projects
-- [🔧 Service Order System](https://github.com/GuigoSantana/sistema-de-OS) - (Work In Progress) Fullstack system for managing clients, services, products and service's orders.
+- [🔧 Service Order System](https://github.com/GuigoSantana/OsSystem) - (Work In Progress) Fullstack system for managing clients, services, products and service's orders.
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-santana-38555b314).
